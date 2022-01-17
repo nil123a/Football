@@ -40,9 +40,7 @@ nav a{
     color: #FFFFFF;
     margin-right: 30px;
 }
-.banar-earia{
-  
-}
+
 .banar{
     display: flex;
     justify-content: center;
@@ -65,6 +63,9 @@ nav a{
     color: #FFFFFF;
     margin-top: 127px;
     margin-bottom: 8px;
+}
+.fas{
+    padding-left: 8px;
 }
 
 
@@ -151,4 +152,76 @@ p{
     margin-top: 10px;
     font-family: 'Oswald', sans-serif;
 }
+/* footer section start */
+footer{
+    margin-top: 165px;
+}
+.top-footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.paragraph{
+    width: 469px;
+    height: 300px;
+   
+    margin-right: 66px;
+}
+.paragraph h1{
+    width: 479px;
+    line-height: 60px;
+    size: 48px;
 
+}
+.paragraph p{
+    width: 400px;
+   margin-top: 0;
+   margin-bottom: 24px;
+    
+
+}
+.match img{
+    width: 567px;
+    height: 427px;
+    
+}
+.center{
+    display: flex;
+    justify-content: center;
+}
+.football{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 483px;
+    height: 213px;
+    margin-top: 158px;
+    
+   
+}
+
+
+.icon img{
+    width: 483px;
+    height: 110px;
+   
+}
+.logo{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 170px;
+    height: 32px;
+    margin-left: 158px;
+}
+
+.fab{
+    color: #969BAB;
+}
+.far{
+    color: #969BAB;
+}
+.coppy p{
+    padding-left: 45px;
+}
